@@ -28,7 +28,7 @@ bash docker-install/install-docker-compose-on-ubuntu18.sh
 ```
 
 
-Start Service | Phalcon Application
+Start Service | PHP-FPM v7.2.10
 ---------------------------------------------------
 
 ```
